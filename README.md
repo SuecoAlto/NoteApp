@@ -9,7 +9,8 @@ You can try NoteApp live, hosted on [Render.com](https://render.com/).
 
 👉 [**Click here to open the live demo!**](https://noteapp-8r20.onrender.com/)  
 
-⚠️ Please note: Since the app is hosted on Render’s free tier, the server “sleeps” when inactive.  
+⚠️ Please note: 
+Since the app is hosted on Render’s free tier, the server “sleeps” when inactive.  
 This means it may take up to **1–2 minutes** for the application to fully start the first time you open it. Once it’s awake, it runs smoothly.
 
 -----
