@@ -6,7 +6,7 @@ Välkommen till NoteApp\! Detta är en komplett fullstack-webbapplikation byggd 
 
 Du kan prova NoteApp live, hostad på Render.com.
 
-👉 [**Klicka här för att öppna live-demon!**](https://noteapp-8r20.onrender.com/)
+👉 [**Klicka här för att öppna live-demon!**](https://noteapp-m96q.onrender.com/)
 
 ⚠️ Observera: Eftersom appen är hostad på Render’s gratisnivå så “sover” servern när den är inaktiv.  
 Detta innebär att det kan ta upp till **1–2 minuter** för applikationen att starta första gången du öppnar den. När den väl är igång fungerar den smidigt.

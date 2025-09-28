@@ -7,7 +7,7 @@ Welcome to NoteApp! This is a complete fullstack web application built with the 
 
 You can try NoteApp live, hosted on [Render.com](https://render.com/).  
 
-👉 [**Click here to open the live demo!**](https://noteapp-8r20.onrender.com/)  
+👉 [**Click here to open the live demo!**](https://noteapp-m96q.onrender.com/)  
 
 ⚠️ Please note: 
 Since the app is hosted on Render’s free tier, the server “sleeps” when inactive.  
