@@ -2,6 +2,11 @@
 
 Välkommen till NoteApp\! Detta är en komplett fullstack-webbapplikation byggd med MERN-stacken (MongoDB, Express.js, React, Node.js). Applikationen låter användare skapa, läsa, uppdatera och radera anteckningar genom ett rent och modernt användargränssnitt. Projektet är utvecklat för att demonstrera en helhetsförståelse för modern webbutveckling, från API-design och databashantering till frontend-utveckling och molndistribution (deployment).
 
+## Screenshots
+
+### Main Page
+![Main Page Screenshot](./1.Mainpage.png)
+
 ## Live Demo
 
 Du kan prova NoteApp live, hostad på Render.com.

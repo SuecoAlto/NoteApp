@@ -3,6 +3,11 @@
 
 Welcome to NoteApp! This is a complete fullstack web application built with the MERN stack (MongoDB, Express.js, React, Node.js). The application allows users to create, read, update, and delete notes through a clean and modern user interface. The project is developed to demonstrate a comprehensive understanding of modern web development, from API design and database management to frontend development and cloud deployment.
 
+## Screenshots
+
+### Main Page
+![Main Page Screenshot](./1.Mainpage.png)
+
 ## Live Demo
 
 You can try NoteApp live, hosted on [Render.com](https://render.com/).  
